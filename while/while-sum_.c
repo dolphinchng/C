@@ -9,9 +9,9 @@ int main(){
         sum=sum+number;
         scanf("%d",&number);
     }
-    if(sum==0){    //当输入number的值为0时，输出Average is N/A，若if(sum==0)写成if(number==0),则会与while(number!=0)-->
+    if(sum==0){     //当输入number的值为0时，输出Average is N/A，若if(sum==0)写成if(number==0),则会与while(number!=0)-->
         printf("Average is N/A");
-    }else{         //-->跳出的程序冲突，导致无法正常计算else语句中的内容
+    }else{          //-->跳出的程序冲突，导致无法正常计算else语句中的内容
         average=sum/(float)i;
         printf("Average is %f.\n",average);
     }
