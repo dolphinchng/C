@@ -1,4 +1,4 @@
-#include <stdio.h>//求不定個數正整數平均的練習
+#include <stdio.h>//姹備笉瀹氬�嬫暩姝ｆ暣鏁稿钩鍧囩殑绶寸繏
 int main(){
     int number,i=0,sum=0;
     float average=0;
@@ -9,9 +9,9 @@ int main(){
         sum=sum+number;
         scanf("%d",&number);
     }
-    if(sum==0){
+    if(sum==0){    //褰撹緭鍏umber鐨勫�间负0鏃讹紝杈撳嚭Average is N/A锛岃嫢if(sum==0)鍐欐垚if(number==0),鍒欎細涓巜hile(number!=0)-->
         printf("Average is N/A");
-    }else{
+    }else{         //-->璺冲嚭鐨勭▼搴忓啿绐侊紝瀵艰嚧鏃犳硶姝ｅ父璁＄畻else璇彞涓殑鍐呭
         average=sum/(float)i;
         printf("Average is %f.\n",average);
     }
