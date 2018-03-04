@@ -1,4 +1,4 @@
-#include <stdio.h>//Ê¹ÓÃforÓï¾ä¼ÆËãs=1+3+¡¤¡¤¡¤+99
+#include <stdio.h> //å°å‡ºs=1+3+5+Â·Â·Â·+99çš„ç»“æœ
 int main(){
     int s=0,i;
     for(i=1;i<=99;i+=2){
