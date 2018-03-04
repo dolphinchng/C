@@ -1,4 +1,4 @@
-#include <stdio.h>//Ó¡³ö1µ½10Ö®¼äµÄÆæÊı
+#include <stdio.h>//å°å‡º1åˆ°10ä¹‹é—´çš„å¥‡æ•°
 int main(){
    int count;
    for(count=1;count<=9;count+=2){
