@@ -1,4 +1,4 @@
-#include <stdio.h>//Ó¡³öMµ½NÖ®¼äµÄÁ¬ĞøÕûÊı
+#include <stdio.h>//å°å‡ºMåˆ°Nä¹‹é—´çš„è¿ç»­æ•´æ•°
 int main(){
    int count,M,N;
    printf("please enter the number:");
