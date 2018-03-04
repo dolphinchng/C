@@ -1,7 +1,7 @@
-#include <stdio.h>//Ó¡³ö´Ó10µ½1
+#include <stdio.h>//å°å‡ºä»10åˆ°1ä¹‹é—´çš„æ•´æ•°
 int main(){
     int count;
-    for(count=1;count<=9;count++){
+    for(count=1;count<=10;count++){
     int number=11-count;
     printf("%d\n",number);
     }
