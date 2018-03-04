@@ -1,5 +1,4 @@
-#include <stdio.h>//Ó¡³ö1-10Ö®¼äµÄÅ¼Êı
-int main(){
+#include <stdio.h> //å°å‡º1åˆ°10ä¹‹é—´çš„å¶æ•°
    int count;
    for(count=1;count<=10;count++){
         if(count%2==0){
