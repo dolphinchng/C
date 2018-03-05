@@ -1,4 +1,4 @@
-int main(){     //Ê¹ÓÃÎÄ×Ö»­ºáÏß
+int main(){     //ä½¿ç”¨æ–‡å­—ç”»æ¨ªçº¿
    int N,i;
    printf("N = ");
    scanf("%d",&N);
