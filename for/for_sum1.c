@@ -1,4 +1,4 @@
-#include <stdio.h>//求1加到100的整数和
+#include <stdio.h>//璁＄畻1+2+3+路路路+100鐨勫拰
 int main(){
    int sum=0,i;
    for(i=1;i<=100;i++){
