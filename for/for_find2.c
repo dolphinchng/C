@@ -1,7 +1,7 @@
-#include <stdio.h>//韩信点兵
+#include <stdio.h>//闊╀俊鐐瑰叺
 int main(){
    int number=1;
-   while(!(number%3==2&&number%5==3&&number%7==2)){         //不符合条件
+   while(!(number%3==2&&number%5==3&&number%7==2)){         //涓嶇鍚堟潯浠舵椂
     ++number;
    }
     printf("%d",number);
