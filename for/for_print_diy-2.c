@@ -1,4 +1,4 @@
-int main(){  // 求1加到N的整数和
+int main(){  // 璁＄畻浠嶯鍒癕鐨勫拰
    int sum=0,i,N;
    printf("N=");
    scanf("%d",&N);
