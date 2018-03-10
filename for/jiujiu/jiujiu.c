@@ -1,4 +1,4 @@
-#include <stdio.h>//�žų˷���
+#include <stdio.h>//九九乘法表
 int main(){
     int i,y=1;
     for(i=1;i<=9;i++){
