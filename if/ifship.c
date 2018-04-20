@@ -1,7 +1,7 @@
 #include <stdio.h>//对三个整数做排序,由小到大
 int main(){
     int a,b,c,t;
-    printf("please enter two integers:");
+    printf("please enter three integers:");
     scanf("%d%d%d",&a,&b,&c);
     if(a>b&&b>c){
         t=a;a=c;c=t;
