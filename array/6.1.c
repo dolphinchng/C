@@ -4,7 +4,7 @@ int main(){
     v[0] = 3;
     v[1] = 5;
     v[2] = 0;
-    int max = v[0];
+    int max = v[0];	//打擂台方法
     if(v[1] > max){
         max = v[1];
     }
